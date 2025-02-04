@@ -1,0 +1,7 @@
+first we remove some columns from MainTable
+then we remove one column and last row of DimSalesTerritory
+then we remove column from DimProduct and rename the second and last two columns
+then we remove columns from DimGeograpgy and rename last column
+delete DimDate table to create our own date table using DAX
+then we remove columns from DimCustomer
+we add to columns 'total orders' and 'quantity' to fact table
